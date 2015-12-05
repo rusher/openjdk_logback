@@ -15,6 +15,7 @@ public class StupidTest {
 
     @Test
     public void test() throws SQLException {
+        //stupid test
         Assert.assertEquals(1, 1);
     }
 }
